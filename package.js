@@ -32,6 +32,6 @@ Package.onUse(function(api) {
 Package.onTest(function(api) {
   api.use('ecmascript');
   api.use('tinytest');
-  api.use('t3db0t:accounts-invite');
+  api.use('defc0n1:accounts-invite');
   api.addFiles('accounts-invite-tests.js');
 });
