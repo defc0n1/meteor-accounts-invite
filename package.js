@@ -1,6 +1,6 @@
 Package.describe({
   name: 'defc0n1:accounts-invite',
-  version: '1.2.2',
+  version: '1.2.3',
   summary: 'Account validation with oauth and anonymous user support',
   git: 'https://github.com/t3db0t/meteor-accounts-invite',
   documentation: 'README.md'
